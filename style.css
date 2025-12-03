@@ -5,16 +5,17 @@
 * License: https://bootstrapmade.com/license/
 */
 
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #87CEEB;
 }
 
 a {
-  color: #5846f9;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -84,8 +85,8 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #5846f9;
-  border-top-color: #e7e4fe;
+  border: 6px solid #ffffff;
+  border-top-color: #87CEEB;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -285,7 +286,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #5846f9;
+  color: #87CEEB;
 }
 
 .navbar .dropdown:hover>ul {
@@ -378,7 +379,7 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #2c4964;
+  color: #ffffff;
 }
 
 .navbar-mobile a:hover:before,
@@ -477,7 +478,7 @@ h6 {
 
 #hero .btn-get-started:hover {
   background: #fff;
-  color: #5846f9;
+  color: #87CEEB;
 }
 
 #hero .animated {
